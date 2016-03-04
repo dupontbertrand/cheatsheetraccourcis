@@ -1,4 +1,3 @@
-## Cheat Sheet Git
+## Cheat Sheet Raccourcis
 
-Commandes indispensables de Git et aide GitHub   
-En amélioration !
+Petit apercu des raccourcis disponibles sous ubuntu
